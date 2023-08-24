@@ -37,6 +37,7 @@ p{
 .wrapper{
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 .card-01{
     width: 300px;
